@@ -12,7 +12,7 @@ links:
   - label: GitHub
     url: "https://github.com/rplain1"
   - label: Email
-    url: "ryan.plain1@gmail.com"
+    url: "mailto:ryan.plain1@gmail.com"
 output:
   postcards::trestles
 ---
