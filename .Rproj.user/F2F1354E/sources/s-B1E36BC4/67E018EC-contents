@@ -1,0 +1,43 @@
+---
+title: "Ryan Plain"
+image: "ME.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ryanplain/"
+  - label: Blog
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/rplain1"
+  - label: Email
+    url: "ryan.plain1@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Data analyst living in Colorado Springs. Currently working in product analytics for small business solutions. My previous background was simulating passenger and bag traffic through airport facilities. 
+
+I got into data science through sports and it's applications of analytics, and my interests are using statistics and machine learning to help make decisions. 
+
+In my free time I love the outdoors, yoga, and my dogs. 
+
+
+## Education
+
+**Georgia Institute of Technology** | Atlanta, GA
+
+M.S. in Analytics | Fall 2019 - Fall 2022
+
+**The University of North Texas** | Denton, TX
+
+B.B.A. in Business Analytics | Fall 2016 - Fall 2017
+
+## Experience
+
+**Clover** | Data Analyst | October 2021 - Present
+
+**Southwest Airlines** | Data Analyst | April 2019 - October 2021
