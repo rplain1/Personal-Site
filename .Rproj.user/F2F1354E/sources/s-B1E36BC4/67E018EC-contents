@@ -1,9 +1,6 @@
 ---
 title: "Ryan Plain"
 image: "ME.jpg"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ryanplain/"
@@ -21,7 +18,7 @@ output:
 
 I'm a data analyst living in Colorado Springs, currently working in product analytics for small business solutions. Previously, I worked simulating passenger and bag traffic through airport facilities. 
 
-Graduate school is a major part of my life right now, with the expected graduation date this summer. The past couple of years my course work has been split between Industrial and Systems Engineering and Computer Science departments. I've been able to work with R and Tidymodels in the ISYE courses, projects include working with NFL tracking data using ensemble models to evaluate Kicker performance and submitting models for unknown test data. The CS courses have primarily focused using Python for image compression, classification and network analysis. 
+Graduate school is a major part of my life right now, with the expected graduation date being this summer (2022). During this time, my course work has been split between Industrial and Systems Engineering and Computer Science departments for analytics and machine learning. I've been able to work with R and Tidymodels in the ISYE courses, projects have included: working with NFL tracking data using ensemble models to evaluate Kicker performance and submitting models for unknown test data. The CS courses have primarily focused using Python for image compression, classification, and network analysis. 
 
 In my free time I love the outdoors, sports, and my dogs. 
 
