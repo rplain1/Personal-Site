@@ -8,20 +8,20 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ryanplain/"
   - label: Blog
-    url: "https://twitter.com/"
+    url: "https://inspiring-northcutt-45ab8c.netlify.app"
   - label: GitHub
     url: "https://github.com/rplain1"
   - label: Email
     url: "mailto:ryan.plain1@gmail.com"
 output:
-  postcards::trestles
+  postcards::solana
 ---
  
 ## Bio
 
-Data analyst living in Colorado Springs. Currently working in product analytics for small business solutions. My previous background was simulating passenger and bag traffic through airport facilities. 
+I'm a data analyst living in Colorado Springs, currently working in product analytics for small business solutions. Previously, I worked simulating passenger and bag traffic through airport facilities. 
 
-My course work has been split between Industrial Engineering and Computer Science departments. I've been able to work with R and Tidymodels in the ISYE courses, projects include working with NFL tracking data using ensemble models to evaluate Kicker performance. The CS courses have primarily focused using Python for image compression, classification and network analysis.
+Graduate school is a major part of my life right now, with the expected graduation date this summer. The past couple of years my course work has been split between Industrial and Systems Engineering and Computer Science departments. I've been able to work with R and Tidymodels in the ISYE courses, projects include working with NFL tracking data using ensemble models to evaluate Kicker performance and submitting models for unknown test data. The CS courses have primarily focused using Python for image compression, classification and network analysis. 
 
 In my free time I love the outdoors, sports, and my dogs. 
 
